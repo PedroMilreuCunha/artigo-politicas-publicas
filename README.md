@@ -1,2 +1,2 @@
 # artigo-politicas-publicas
-Repositório contendo todos os dados e scripts necessários para reproduzir o artigo "Avaliação do impacto da greve universitária federal de 2012 sobre a nota média das IES no ENADE"
+Repositório contendo todos os dados e scripts necessários para reproduzir o artigo "Avaliação do impacto da greve universitária federal de 2012 sobre a nota média das IES no ENADE", produzido na disciplina de "Avaliação de Políticas Públicas", ministrada pelo prof. Dr. Aléssio Tony Cavalcanti de Almeida, no Programa de Pós-Graduação em Economia Aplicada da Universidade Federal da Paraíba.
