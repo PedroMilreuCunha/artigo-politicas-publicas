@@ -1,0 +1,35 @@
+\changetocdepth {4}
+\babel@toc {brazil}{}
+\setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
+\setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
+\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
+\contentsline {chapter}{\chapternumberline {1}\MakeTextUppercase {Introdução}}{4}{chapter.1}%
+\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
+\contentsline {chapter}{\chapternumberline {2}\MakeTextUppercase {Revisão de Literatura}}{7}{chapter.2}%
+\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
+\contentsline {chapter}{\chapternumberline {3}\MakeTextUppercase {Metodologia}}{10}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Modelo empírico}{10}{section.3.1}%
+\contentsline {subsection}{\numberline {3.1.1}Modelo de dados em painel}{10}{subsection.3.1.1}%
+\contentsline {subsection}{\numberline {3.1.2}\textit {Propensity Score Matching (PSM)}}{11}{subsection.3.1.2}%
+\contentsline {subsection}{\numberline {3.1.3}Estimação pelo método de Diferenças-em-Diferenças}{12}{subsection.3.1.3}%
+\contentsline {subsubsection}{\numberline {3.1.3.1}Modelo estimado}{14}{subsubsection.3.1.3.1}%
+\contentsline {section}{\numberline {3.2}Dados}{15}{section.3.2}%
+\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
+\contentsline {chapter}{\chapternumberline {4}\MakeTextUppercase {Resultados}}{16}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Análise de robustez}{16}{section.4.1}%
+\contentsline {subsection}{\numberline {4.1.1}Propensity score matching}{16}{subsection.4.1.1}%
+\contentsline {subsubsection}{\numberline {4.1.1.1}Hipótese do suporte comum}{16}{subsubsection.4.1.1.1}%
+\contentsline {section}{\numberline {4.2}Balanceamento das covariadas}{20}{section.4.2}%
+\contentsline {subsection}{\numberline {4.2.1}Diferenças em diferenças}{22}{subsection.4.2.1}%
+\contentsline {subsubsection}{\numberline {4.2.1.1}Tendências paralelas - inspeção gráfica}{22}{subsubsection.4.2.1.1}%
+\contentsline {subsubsection}{\numberline {4.2.1.2}Teste de placebo}{22}{subsubsection.4.2.1.2}%
+\contentsline {section}{\numberline {4.3}Análise de impacto}{25}{section.4.3}%
+\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
+\contentsline {chapter}{\chapternumberline {5}\MakeTextUppercase {Conclusões}}{30}{chapter.5}%
+\vspace {\cftbeforechapterskip }
+\setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
+\contentsline {chapter}{\MakeTextUppercase {Refer\^encias}}{31}{section*.24}%
+\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
+\contentsline {chapter}{\chapternumberline {6}\MakeTextUppercase {Apêndice}}{33}{chapter.6}%
+\contentsline {section}{\numberline {6.1}Lista de instituições de ensino superior utilizadas na estimação}{33}{section.6.1}%
+\contentsline {section}{\numberline {6.2}Balanceamento das covariadas - Testes de placebo}{35}{section.6.2}%
