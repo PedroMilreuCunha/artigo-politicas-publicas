@@ -1,0 +1,95 @@
+
+%-------------------------------------------------------------------------
+% Modelo Trabalho PPGE-UFPB/Estatística
+% Normas da ABNT
+% Provedor: Laboratório de Economia e Modelagem Aplicada -- LEMA
+%-------------------------------------------------------------------------
+
+\documentclass[12pt, openright,oneside, a4paper, english, brazil]{abntex2}
+
+% ----------------------------
+% Pacotes básicos 
+% ----------------------------
+% Referências
+\usepackage[brazilian,hyperpageref]{}	
+\usepackage[alf]{abntex2cite}			
+%Texto aleatório
+\usepackage{lipsum} 
+
+% Fonte e codificação (acentuação)
+\usepackage{lmodern}       
+\renewcommand{\sfdefault}{ppl}
+\usepackage[T1]{fontenc}	
+\usepackage[utf8]{inputenc}	
+
+% Tabelas e Figuras
+\usepackage{ctable}     
+\usepackage{dcolumn}
+\usepackage{multirow}
+\usepackage{array}
+\usepackage{float}              
+\usepackage{longtable}  
+\usepackage{rotating}
+\usepackage{lscape}
+\usepackage{xcolor,colortbl}    
+\usepackage{booktabs}           
+\usepackage{graphicx}			
+\usepackage{subfig}             
+\usepackage{caption}            
+\usepackage{epstopdf}   
+\usepackage{scrextend}
+\usepackage{etoolbox}
+
+% Equações e símbolos
+\usepackage{amsmath}            
+\usepackage{nomencl} 
+\usepackage{cleveref}  
+
+% Texto
+\usepackage{indentfirst}		
+\usepackage{color}				
+\usepackage{microtype} 			
+\usepackage{lastpage}		
+\usepackage{ragged2e}
+\usepackage{bm}
+% ----------------------------------------------------------
+% Configurações do texto
+% ----------------------------------------------------------
+
+\usepackage{array}
+\newcolumntype{L}[1]{>{\raggedright\let\newline\\\arraybackslash\hspace{0pt}}m{#1}}
+\newcolumntype{C}[1]{>{\centering\let\newline\\\arraybackslash\hspace{0pt}}m{#1}}
+\newcolumntype{R}[1]{>{\raggedleft\let\newline\\\arraybackslash\hspace{0pt}}m{#1}}
+
+\makeatletter
+\hypersetup{pdftitle={\@title}, pdfauthor={\@author}}
+\makeatother
+
+
+%-----------------
+% Informe os dados
+% ----------------
+\local{João Pessoa - PB}
+\data{\the\year}
+
+\instituicao{
+	Universidade Federal da Paraíba 
+	\par
+	Centro de Ciências Sociais Aplicadas
+	\par
+	Programa de Pós-Graduação em Economia}
+\tipotrabalho{Projeto de Disciplina}
+
+
+
+\preambulo{Trabalho apresentado ao Programa de Pós-Graduação em Economia Universidade Federal da Paraíba, em cumprimento às exigências da disciplina de \disciplina, ministrada pelo professor Dr. \professor.}
+%--------------------------------------------------------------
+\newcommand\parindentABNT{
+\setlength{\parindent}{1.25cm} \setlength{\parskip}{0.1cm} 
+}
+
+
+\makeindex
+
+
+
