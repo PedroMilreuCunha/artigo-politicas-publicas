@@ -1,0 +1,141 @@
+\providecommand{\abntreprintinfo}[1]{%
+ \citeonline{#1}}
+\setlength{\labelsep}{0pt}\begin{thebibliography}{}
+\providecommand{\abntrefinfo}[3]{}
+\providecommand{\abntbstabout}[1]{}
+\abntbstabout{v-1.9.7 }
+
+\bibitem[Annegues, Porto\ J\'{u}nior e Figueiredo 2017]{Annegues2017}
+\abntrefinfo{Annegues, Porto\ J\'{u}nior e Figueiredo}{ANNEGUES; PORTO\
+  J\'{u}NIOR; FIGUEIREDO}{2017}
+{ANNEGUES, A.~C.; PORTO\ J\'{u}NIOR, S.; FIGUEIREDO, E. O impacto das greves
+  dos professores universitários sobre o desempenho dos alunos da ufpb.
+\emph{XXII Encontro Regional de Economia - ANPEC}, 2017.
+Dispon{\'\i}vel em:
+  \url{http://www.anpec.org.br/nordeste/2017/submissao/arquivos\_identificados/173-4f11b45b9ea3cb10d55a7d79224ad576.docx}.}
+
+\bibitem[Baltagia 2005]{Baltagi2005}
+\abntrefinfo{Baltagia}{BALTAGIA}{2005}
+{BALTAGIA, B.~H. \emph{Econometric analysis of panel data}. 3. ed. [S.l.]: John
+  Wiley and Sons, 2005.}
+
+\bibitem[Becker e Inchino 2002]{Becker2002}
+\abntrefinfo{Becker e Inchino}{BECKER; INCHINO}{2002}
+{BECKER, S.~O.; INCHINO, A. Estimation of average treatment effects based on
+  propensity scores.
+\emph{The Stata Journal}, v.~2, n.~4, p. 358--377, 2002.}
+
+\bibitem[Belot e Webbink 2010]{Belot2010}
+\abntrefinfo{Belot e Webbink}{BELOT; WEBBINK}{2010}
+{BELOT, M.; WEBBINK, D. {Do Teacher Strikes Harm Educational Attainment of
+  Students?}
+\emph{LABOUR}, v.~24, n.~4, p. 391--406, 2010.}
+
+\bibitem[Caliendo e Kopeinig 2008]{Caliendo2008}
+\abntrefinfo{Caliendo e Kopeinig}{CALIENDO; KOPEINIG}{2008}
+{CALIENDO, M.; KOPEINIG, S. Some pratical guidance for the implementation of
+  propensity score matching.
+\emph{Journal of Economic Surveys}, v.~22, n.~1, p. 31--72, 2008.}
+
+\bibitem[Cameron e Trivedi 2005]{CameronTrivedi2005}
+\abntrefinfo{Cameron e Trivedi}{CAMERON; TRIVEDI}{2005}
+{CAMERON, A.~C.; TRIVEDI, P.~K. \emph{Microeconometrics: methods and
+  applications.} [S.l.]: Cambridge University Press, 2005.}
+
+\bibitem[Garrido et al. 2014]{Garridoetal2014}
+\abntrefinfo{Garrido et al.}{GARRIDO et al.}{2014}
+{GARRIDO, M.~M. et al. {Methods for Constructing and Assessing Propensity
+  Scores}.
+\emph{Health Services Research}, v.~49, p. 1701--1720, 2014.}
+
+\bibitem[Greenglass et al. 2002]{Greenglass2002}
+\abntrefinfo{Greenglass et al.}{GREENGLASS et al.}{2002}
+{GREENGLASS, E. et al. Stressful effects of a university faculty strike on
+  students: Implications for coping.
+\emph{Interchange}, v.~33, p. 261--279, 2002.}
+
+\bibitem[Greifer 2020]{Cobalt2020}
+\abntrefinfo{Greifer}{GREIFER}{2020}
+{GREIFER, N. \emph{cobalt: Covariate Balance Tables and Plots}.
+[S.l.], 2020. R package version 4.2.4. Dispon{\'\i}vel em:
+  \url{https://CRAN.R-project.org/package=cobalt}.}
+
+\bibitem[Hainmueller 2012]{Hainmueller2012}
+\abntrefinfo{Hainmueller}{HAINMUELLER}{2012}
+{HAINMUELLER, J. Entropy balancing for causal effects: A multivariate
+  reweighting method to produce balanced samples in observational studies.
+\emph{Political Analysis}, v.~20, p. 25--46, 2012.}
+
+\bibitem[Heckman 1979]{Heckman1979}
+\abntrefinfo{Heckman}{HECKMAN}{1979}
+{HECKMAN, J.~J. Sample selection bias as a specification error.
+\emph{Econometrica}, v.~47, n.~1, p. 153--161, 1979.}
+
+\bibitem[Hoxby 1996]{Hoxby1996}
+\abntrefinfo{Hoxby}{HOXBY}{1996}
+{HOXBY, C.~M. How teachers' unions affect education production.
+\emph{Quarterly Journal of Economics}, p. 671--718, 1996.}
+
+\bibitem[Hsiao 2014]{Hsiao2014}
+\abntrefinfo{Hsiao}{HSIAO}{2014}
+{HSIAO, C. \emph{Analysis of panel data}. 3. ed. [S.l.]: Cambridge University
+  Press, 2014.}
+
+\bibitem[INEP 2020]{INEP2020}
+\abntrefinfo{INEP}{INEP}{2020}
+{INEP. Microdados - enade.
+2020.
+Dispon{\'\i}vel em: \url{http://www.portal.inep.gov.br/microdados}.}
+
+\bibitem[Januzzi 2016]{Januzzi2016}
+\abntrefinfo{Januzzi}{JANUZZI}{2016}
+{JANUZZI, P. \emph{Monitoramento e Avaliação de Programas Sociais: uma
+  introdução aos conceitos e técnicas}. [S.l.]: Editora Alínea, 2016.}
+
+\bibitem[Khandker, Koolwal e Samad 2010]{Khandker2010}
+\abntrefinfo{Khandker, Koolwal e Samad}{KHANDKER; KOOLWAL; SAMAD}{2010}
+{KHANDKER, R.; KOOLWAL, G.~B.; SAMAD, H.~A. \emph{Handbook on Impact
+  Evaluation: Quantitative Methods and Pratices.} [S.l.]: The World Bank,
+  2010.}
+
+\bibitem[Lechner 2010]{Lechner2010}
+\abntrefinfo{Lechner}{LECHNER}{2010}
+{LECHNER, M. The estimation of causal effects by difference-in-difference
+  methods.
+\emph{Foundations and Trends in Econometrics}, v.~4, n.~3, p. 165--224, 2010.}
+
+\bibitem[Lovenheim 2009]{Lovenheim2009}
+\abntrefinfo{Lovenheim}{LOVENHEIM}{2009}
+{LOVENHEIM, M.~F. The effect of teachers' unions on education production:
+  Evidence from union election certifications in three midwestern states.
+\emph{Journal of Labor Economics}, v.~27, n.~4, p. 525--587, 2009.}
+
+\bibitem[{R Core Team} 2020]{R2020}
+\abntrefinfo{{R Core Team}}{{R Core Team}}{2020}
+{{R Core Team}. \emph{R: A Language and Environment for Statistical Computing}.
+Vienna, Austria, 2020. Dispon{\'\i}vel em: \url{https://www.R-project.org/}.}
+
+\bibitem[Rosenbaum e Rubin 1983]{Rosenbaum1983}
+\abntrefinfo{Rosenbaum e Rubin}{ROSENBAUM; RUBIN}{1983}
+{ROSENBAUM, P.~R.; RUBIN, D.~B. The central role of the propensity score in
+  observational studies for causal effects.
+\emph{Biometrika}, v.~70, n.~1, p. 41--55, 1983.}
+
+\bibitem[Wickens et al. 2006]{Wickens2006}
+\abntrefinfo{Wickens et al.}{WICKENS et al.}{2006}
+{WICKENS, C. et al. Student stress and coping following a university strike in
+  canada.
+\emph{Journal of Collective Negotiations}, v.~31, p. 1--19, 2006.}
+
+\bibitem[Wills 2014]{Wills2014}
+\abntrefinfo{Wills}{WILLS}{2014}
+{WILLS, G. The effects of teacher strike activity on student learning in south
+  african primary schools.
+\emph{Economic Research Southern Africa Working Paper}, 2014.}
+
+\bibitem[Zwerling 2008]{Zwerling2008}
+\abntrefinfo{Zwerling}{ZWERLING}{2008}
+{ZWERLING, H.~L. Pennsylvania teachers' strikes and academic performance.
+\emph{Journal of Collective Negotiations}, v.~32, n.~2, p. 151--172, 2008.}
+
+\end{thebibliography}
