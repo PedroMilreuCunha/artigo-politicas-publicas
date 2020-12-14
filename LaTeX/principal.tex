@@ -18,9 +18,19 @@ Rafael de Sousa Araújo\thanks{Doutorando - PPGE/UFPB}}
 
 \begin{resumo}
 
-O presente trabalho teve como propósito verificar o impacto, se é que ele existiu, da greve universitária federal de 2012 sobre a nota média das instituições afetadas na prova do ENADE em 2012 e 2013. Para tanto foram utilizados dois painéis longitudinais com informações sobre as IES para os ciclos 2009-2012 e 2010-2013 e foi estimado um modelo de Diferenças-em-Diferenças com efeitos fixos individuais e aplicação da técnica de \textit{Propensity Score Matching} (PSM) para pareamento prévio dos grupos de tratado e controle, garantindo maior robustez aos resultados. Encontrou-se que a greve não teve efeito contemporâneo, tendo, por outro lado, impactado negativamente de maneira significativa o desempenho médio dos discentes no ENADE 2013, com uma redução marginal média de $0,3798$ na nota média para as unidades afetadas no período pós-intervenção (ciclo 2010-2013).
+O presente trabalho teve como propósito verificar o impacto, se é que ele existiu, da greve universitária federal de 2012 sobre a nota média das instituições afetadas na prova do ENADE em 2012 e 2013. Para tanto foram utilizados dois painéis longitudinais com informações sobre as IES para os ciclos 2009-2012 e 2010-2013 e foi estimado um modelo de Diferenças-em-Diferenças com efeitos fixos individuais e aplicação da técnica de \textit{Propensity Score Matching} (PSM) para pareamento prévio dos grupos de tratado e controle, garantindo maior robustez aos resultados. Encontrou-se que a greve não teve efeito contemporâneo, tendo, por outro lado, impactado negativamente de maneira significativa o desempenho médio dos discentes no ENADE 2013, com uma redução marginal média de $0,3798$ na nota média para as unidades afetadas no período pós-intervenção (2012 em diante).
 
-\textbf{Palavras-chave}: Greve universitária federal. PSM. Entropia.  Diff-in-Diff. Impacto.
+\textbf{Palavras-chave}: Greve universitária federal. PSM.  Diff-in-Diff. Avaliação de impacto.
+\end{resumo} 
+
+\begin{resumo}[Abstract]
+\begin{otherlanguage*}{english}
+This paper's purpose is to measure the impact, if any existed, of the 2012 federal universities strike in the average grade of the affected institutions on the 2012 and 2013 ENADE exams. In order to accomplish that, two longitudinal panels with data about the IES for the 2009-2012 and 2010-2013 cycles were used, estimating a Differences-in-Differences models with individual fixed effects and use of Propensity Score Matching (PSM) techniques for previous pairing of the treated and control groups, assuring a more robust result. It was found that the strike had no contemporaneous impact; however, a significant negative impact in the average grade was found when the 2010-2013 cycle was considered. For the after-treatment period (2012 onwards), an average marginal reduction of 0.3798 in the grade of the treated units was found.
+ \vspace{\onelineskip}
+ 
+   \noindent 
+   \textbf{Keywords}: Federal universities strike. PSM. Diff-in-Diff. Impact evaluation.
+ \end{otherlanguage*}
 \end{resumo} 
 
 \textual
@@ -111,7 +121,7 @@ Um importante questionamento que deve ser feito é qual a razão da ausência da
 
 \subsection{\textit{Propensity Score Matching (PSM)}}
 
-A  de impactos tem como propósito verificar se algum determinado experimento ou programa está atingindo os resultados esperados, além de permitir quantificar esse efeito, dando-lhe sinal e magnitude \cite{CameronTrivedi2005}. Como é preciso fazer inferências acerca do que teria acontecido com um agente que foi tratado caso não tivesse sido, ou seja, qual seria o seu resultado em um "mundo paralelo" no qual a única diferença é a ausência de tratamento, é necessário construir o contrafactual. Tendo por base essa dita "especulação" (\citeonline{Caliendo2008}), torna-se claro a importância de se ter uma grande gama de informações acerca das variáveis de interesse para os dois grupos.
+A avaliação de impactos tem como propósito verificar se algum determinado experimento ou programa está atingindo os resultados esperados, além de permitir quantificar esse efeito, dando-lhe sinal e magnitude \cite{CameronTrivedi2005}. Como é preciso fazer inferências acerca do que teria acontecido com um agente que foi tratado caso não tivesse sido, ou seja, qual seria o seu resultado em um "mundo paralelo" no qual a única diferença é a ausência de tratamento, é necessário construir o contrafactual. Tendo por base essa dita "especulação" (\citeonline{Caliendo2008}), torna-se claro a importância de se ter uma grande gama de informações acerca das variáveis de interesse para os dois grupos.
 
 Para realizar um estudo de efeito causal, é necessário dispor de informações sobre os indivíduos, o tratamento e os resultados potenciais. A grande dificuldade em se estimar $\pi$, o efeito do tratamento, consiste na inexistência de dados sobre o resultado potencial na ausência de tratamento, visto que esse cenário não é observável. Assim, na equação (\ref{eq:resultados_potenciais}), apenas $Y_i(1)$ é observável, ou seja, somente conseguimos obter o resultado da unidade tratada no cenário de tratamento:
 \begin{equation} \label{eq:resultados_potenciais} \tag{3.1.2}
@@ -359,7 +369,7 @@ Nas tabelas \ref{tab:placebo_2009_2012} e \ref{tab:placebo_2010_2013}, têm-se o
 \begin{table}[H] \centering 
   \caption{Placebo - Ciclo 2009-2012} 
   \label{tab:placebo_2009_2012} 
-\small 
+\scalefont{0.85} 
 \begin{tabular}{@{\extracolsep{5pt}}lD{,}{,}{-3} D{,}{,}{-3} } 
 \\[-1.8ex]\hline 
 \hline \\[-1.8ex] 
@@ -411,7 +421,7 @@ Estatística F (df = 9; 76) & \multicolumn{1}{c}{28,765$^{***}$} & \multicolumn{
 \begin{table}[H] \centering 
   \caption{Placebo - Ciclo 2010-2013} 
   \label{tab:placebo_2010_2013} 
-\small 
+\scalefont{0.85} 
 \begin{tabular}{@{\extracolsep{5pt}}lD{,}{,}{-3} D{,}{,}{-3} } 
 \\[-1.8ex]\hline 
 \hline \\[-1.8ex] 
@@ -505,6 +515,7 @@ Na seção seguinte, fez-se uma breve recapitulação do problema de pesquisa, d
 \begin{sidewaystable}[ht] \centering \scriptsize
   \caption{Efeito médio de tratamento sobre os tratados - Ciclo 2009-2012} 
   \label{tab:resultados_2009_2012} 
+  \scalefont{0.85} 
 \begin{tabular}{@{\extracolsep{5pt}}lD{,}{,}{-3} D{,}{,}{-3} D{,}{,}{-3} D{,}{,}{-3} } 
 \\[-1.8ex]\hline 
 \hline \\[-1.8ex] 
@@ -563,6 +574,7 @@ Erro-padrão residual & \multicolumn{1}{c}{0,239 (df = 159)} &  &  &  \\ Estatí
 \begin{sidewaystable} \centering \scriptsize
   \caption{Efeito médio de tratamento sobre os tratados - Ciclo 2010-2013} 
   \label{tab:resultados_2010_2013} 
+  \scalefont{0.85} 
 \begin{tabular}{@{\extracolsep{5pt}}lD{,}{,}{-3} D{,}{,}{-3} D{,}{,}{-3} D{,}{,}{-3} } 
 \\[-1.8ex]\hline 
 \hline \\[-1.8ex] 
@@ -625,7 +637,7 @@ O intuito do presente trabalho era verificar se a greve federal de 2012 das inst
 
 Os resultados mostram que no ano da greve, 2012, o seu efeito sobre as notas médias das instituições não foi significativo, muito provavelmente pelo pequeno intervalo de tempo entre o final da greve e a prova. Por outro lado, ao se analisar a prova do ano seguinte, 2013, obteve-se um impacto negativo estatisticamente significativo, apontando para a existência de um efeito deletério não-contemporâneo da greve sobre o desempenho dos discentes.
 
-Novos trabalhos devem buscar dados mais específicos sobre as greves, como a duração dela em cada instituição, possibilitando assim a criação de uma variável que capture a intensidade do tratamento. Além disso, uma vez que as IES que escolheram aderir ao movimento grevista têm características distintas das demais, seria interessante utilizar a correção de \citeonline{Heckman1979}, visando modelar a equação de autosseleção das instituições.
+Novos trabalhos devem buscar dados mais específicos sobre as greves, como a duração dela em cada instituição, possibilitando assim a criação de uma variável que capture a intensidade do tratamento. Além disso, uma vez que as IES que escolheram aderir ao movimento grevista provavelmente têm características distintas das demais, seria interessante utilizar a correção de \citeonline{Heckman1979}, visando modelar a equação de autosseleção das instituições.
 
 \postextual
 
